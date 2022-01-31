@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    background-color: burlywood;
+    text-align: center;
+    border: solid 15px;
+    border-color: green;
+}
+p{
+    color: crimson;
+    background-color: darkkhaki;
+    border-radius: 100px;
+    border: solid 15px;
+    border-color: green;
+}
+img{
+    border: solid 15px;
+    width: 300px;
+    border-color: springgreen;
+}
